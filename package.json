@@ -1,5 +1,14 @@
 {
   "dependencies": {
-    "@expo/cli": "^0.22.26"
+    "@expo/cli": "^0.22.26",
+    "@expo/vector-icons": "^14.1.0",
+    "expo-camera": "^16.0.18",
+    "expo-file-system": "^18.0.12",
+    "expo-image-manipulator": "^13.0.6",
+    "react-native-gesture-handler": "^2.25.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "@types/react": "~18.3.12"
   }
 }
